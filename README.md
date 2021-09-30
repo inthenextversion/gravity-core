@@ -1,4 +1,4 @@
-# <img src="gravity_shortTitle_Fulllogo.png" alt="GravityFinance" height="40px">
+# [<img src="gravity_shortTitle_Fulllogo.png" alt="GravityFinance" height="40px">](https://gravityfinance.io/)
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://inthenextversion.gitbook.io/gravity-finance/)
 [![Twitter](https://img.shields.io/twitter/follow/Gravity_Finance?style=plastic)](https://twitter.com/gravity_finance?lang=en)
