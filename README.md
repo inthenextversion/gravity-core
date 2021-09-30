@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/Gravity_Finance?style=plastic)](https://twitter.com/gravity_finance?lang=en)
 
 **DeFi Platform** Built on Polygon, currently offering.
- * Swap Exchange [Factory](https://polygonscan.com/address/0x3ed75AfF4094d2Aaa38FaFCa64EF1C152ec1Cf20) and [Router](0x57dE98135e8287F163c59cA4fF45f1341b680248)
+ * Swap Exchange [Factory](https://polygonscan.com/address/0x3ed75AfF4094d2Aaa38FaFCa64EF1C152ec1Cf20) and [Router](https://polygonscan.com/address/0x57dE98135e8287F163c59cA4fF45f1341b680248)
  * Farms [Factory](https://polygonscan.com/address/0x41d8920282eEDCcfC2f857e5e40Aa560a65d762B) and [Implementation](https://polygonscan.com/address/0xd5d3b955698831cc05ad1cb03ba2ba4ddfc2de1d)
  * Vaults [Factory](https://polygonscan.com/address/0xDc15F68E5F80ACD5966c84f518B1504A7E1772CA)
 
