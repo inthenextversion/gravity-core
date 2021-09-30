@@ -1,5 +1,7 @@
 # [<img src="gravity_shortTitle_Fulllogo.png" alt="GravityFinance" height="40px">](https://gravityfinance.io/)
 
+[![Website](https://img.shields.io/website?down_color=red&up_color=green&up_message=online&url=https%3A%2F%2Fgravityfinance.io%2F)](https://gravityfinance.io/)
+[![Analytics](https://img.shields.io/badge/Swap-Analytics%20-orange)](https://analytics.gravityfinance.io/)
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://inthenextversion.gitbook.io/gravity-finance/)
 [![Twitter](https://img.shields.io/twitter/follow/Gravity_Finance?style=plastic)](https://twitter.com/gravity_finance?lang=en)
 
