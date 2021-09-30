@@ -14,7 +14,7 @@
 ## Security
 
 Our smart contracts have undergone several audits.
-  * [CTDSec](https://api.gravityfinance.io/documents/Cybersecurity_Audit_CTDSEC_Gravity_v4.pdf)
+  * [CTDSec](https://github.com/JorgeRodriguezsec/CTDsec/blob/main/Audits/Cybersecurity_Audit_CTDSEC_Gravity_v4.pdf)
   * [Obelisk](https://github.com/Tibereum/obelisk-audits/blob/main/Gravity.pdf)
 
 There is an active [Bug Bounty Program](https://gravityfinance.medium.com/bug-bounty-c3ef8c433ae5).
